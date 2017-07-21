@@ -126,4 +126,3 @@ if __name__ == '__main__':
     # print(message)
     # s = re.subn('&[a-zA-Z_0-9]{1,7};', '', 'cat&mdash;')
     # s = re.subn('&.*(4);', '', 'cat&masjdfaosdjfoiasjdfdash;')
-    # print(s)
