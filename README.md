@@ -8,3 +8,6 @@
 - py docs for {module}
 - docs for {module}
 - lookup {module}
+
+## Depenencies
+- python 3.6 since it uses f strings
