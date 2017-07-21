@@ -1,4 +1,4 @@
-#Simple Chatbot Using AWS LEX
+# Simple Chatbot Using AWS LEX
 
 - Uses aws lex to handle the the parsing and nlp
 - Looks up pydocs for a modules attr eg. sys.argv
