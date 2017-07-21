@@ -9,5 +9,5 @@
 - docs for {module}
 - lookup {module}
 
-## Depenencies
+## Dependencies
 - python 3.6 since it uses f strings
